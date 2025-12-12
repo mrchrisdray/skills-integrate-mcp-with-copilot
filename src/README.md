@@ -1,5 +1,7 @@
 # Mergington High School Activities API
 
+See the MCP exercise guide: [Exercise: Integrate MCP with Copilot](MCP_INTEGRATION.md)
+
 A super simple FastAPI application that allows students to view and sign up for extracurricular activities.
 
 ## Features
